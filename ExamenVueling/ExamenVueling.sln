@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{22BBC585-F927-4237-B8D2-788E2B842A7F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAcces", "DataAcces", "{4FB7C396-8083-4FF3-B9B6-41D312F54E45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{7622A9DB-C51C-4FFA-99F5-047FD93441EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenVueling.Business.Facade", "ExamenVueling.Business.Facade\ExamenVueling.Business.Facade.csproj", "{D5414377-22C7-437B-ADE1-92877D4C8DB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenVueling.Business.Logic", "ExamenVueling.Business.Logic\ExamenVueling.Business.Logic.csproj", "{9A0290B7-4B42-4528-B297-00A5A6B270C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenVueling.Common.Logic", "ExamenVueling.Common.Logic\ExamenVueling.Common.Logic.csproj", "{42D45612-CDE9-43CD-B94D-38F3A417A413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenVueling.DataAcces.Dao", "ExamenVueling.DataAcces.Dao\ExamenVueling.DataAcces.Dao.csproj", "{77A96B92-4F71-4DD1-B152-3594B0998CA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5414377-22C7-437B-ADE1-92877D4C8DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5414377-22C7-437B-ADE1-92877D4C8DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5414377-22C7-437B-ADE1-92877D4C8DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5414377-22C7-437B-ADE1-92877D4C8DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A0290B7-4B42-4528-B297-00A5A6B270C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0290B7-4B42-4528-B297-00A5A6B270C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0290B7-4B42-4528-B297-00A5A6B270C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0290B7-4B42-4528-B297-00A5A6B270C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D45612-CDE9-43CD-B94D-38F3A417A413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D45612-CDE9-43CD-B94D-38F3A417A413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D45612-CDE9-43CD-B94D-38F3A417A413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D45612-CDE9-43CD-B94D-38F3A417A413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A96B92-4F71-4DD1-B152-3594B0998CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A96B92-4F71-4DD1-B152-3594B0998CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A96B92-4F71-4DD1-B152-3594B0998CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A96B92-4F71-4DD1-B152-3594B0998CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D5414377-22C7-437B-ADE1-92877D4C8DB0} = {7622A9DB-C51C-4FFA-99F5-047FD93441EA}
+		{9A0290B7-4B42-4528-B297-00A5A6B270C4} = {7622A9DB-C51C-4FFA-99F5-047FD93441EA}
+		{42D45612-CDE9-43CD-B94D-38F3A417A413} = {22BBC585-F927-4237-B8D2-788E2B842A7F}
+		{77A96B92-4F71-4DD1-B152-3594B0998CA1} = {4FB7C396-8083-4FF3-B9B6-41D312F54E45}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34CFF308-B03A-4E20-9F65-54B032B81664}
+	EndGlobalSection
+EndGlobal

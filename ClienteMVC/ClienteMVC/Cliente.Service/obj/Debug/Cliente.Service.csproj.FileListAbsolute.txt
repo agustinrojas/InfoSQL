@@ -1,0 +1,6 @@
+C:\Users\agustin.rojas\Desktop\Proyectos\ClienteMVC\ClienteMVC\Cliente.Service\bin\Debug\Cliente.Service.dll
+C:\Users\agustin.rojas\Desktop\Proyectos\ClienteMVC\ClienteMVC\Cliente.Service\bin\Debug\Cliente.Service.pdb
+C:\Users\agustin.rojas\Desktop\Proyectos\ClienteMVC\ClienteMVC\Cliente.Service\obj\Debug\Cliente.Service.csprojResolveAssemblyReference.cache
+C:\Users\agustin.rojas\Desktop\Proyectos\ClienteMVC\ClienteMVC\Cliente.Service\obj\Debug\Cliente.Service.csproj.CoreCompileInputs.cache
+C:\Users\agustin.rojas\Desktop\Proyectos\ClienteMVC\ClienteMVC\Cliente.Service\obj\Debug\Cliente.Service.dll
+C:\Users\agustin.rojas\Desktop\Proyectos\ClienteMVC\ClienteMVC\Cliente.Service\obj\Debug\Cliente.Service.pdb
